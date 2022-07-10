@@ -1,2 +1,6 @@
-# SonsuzNeonSahneTasarimi
-This is a final project. The neon game scene is prepared and the platform is set up endlessly.
+# GameScenes
+This is a final project. It consists of 4 scenes.
+Scene 1: Neon Scene
+Scene 2: Low Poly Scene
+Scene 3: Planetary Design
+Scene 4 : Maze Design in the Jungle
